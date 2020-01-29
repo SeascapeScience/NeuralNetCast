@@ -1,0 +1,6 @@
+function [ES]=ECOMONbin(mon,pgon)
+
+load ~/Work/Data/ECOMON/V5/EcoMon_Zooplankton_Data_v2_5.mat
+
+I=find(inpolygon(DATA(:,3),DATA(:,2),p
+
