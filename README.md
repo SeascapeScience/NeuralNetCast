@@ -30,6 +30,7 @@ Forecasting biodiversity using neural networks
  - The `Code` directory has:
    - `NeuralNetCast*.R` - The functions written for all the steps in the process
    - `NeuralNetCastExamples*.R` - Scripted examples of using the code
+   - **Generally, the most recent versions will be the highest numbered files**
  - The `Data` directory has data used in the examples
  
    
